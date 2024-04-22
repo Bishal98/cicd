@@ -1,29 +1,6 @@
-# README #
+# DevOps Assessment #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Hello and thank you for your interest in applying to A&A Engineering’s DevOp role. We have devised a short assessment in order to assure the quality of our candidates.
+We have created a minimal C# project to test your ability to set up a Continuous Integration / Continuous Deployment pipeline.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Using Jenkins, or another automation software, set up a pipeline that compiles the master branch of this repository (you will need to use MSBuild for this). Once compiled you should then upload the resulting exe to a specific FTP address. The address and its access credentials will be given to you in the assessment email; it is different for each candidate.
