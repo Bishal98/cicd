@@ -8,4 +8,4 @@ WORKDIR /app
 COPY HelloCD.exe .
 
 # Define the entry point for the container
-ENTRYPOINT ["HelloCD.exe"]
+ENTRYPOINT ["HelloCD.exe"]
