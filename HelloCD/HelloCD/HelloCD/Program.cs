@@ -15,7 +15,12 @@ namespace HelloCD
             string versionNumber = majorVersion.ToString() + "." + minorVersion.ToString();
             string message = "Hello CD! This program is version number";
             Console.WriteLine(message + " " + versionNumber);
+<<<<<<< HEAD
 			Console.WriteLine("Now Rochak--5 is  changing even more to really notice if it is a new verison.");
+=======
+	    Console.WriteLine("Now Rochak--2 is  changing even more to really notice if it is a new verison. ");
+		Console.WriteLine("K Xa Kta Haru.");
+>>>>>>> a8dd39e055cdd7376f318f35b0d90890f751d36c
             Console.WriteLine("Press any key to exit.");
             Console.ReadLine();
         }
