@@ -16,9 +16,13 @@ namespace HelloCD
             string message = "Hello CD! This program is version number";
             Console.WriteLine(message + " " + versionNumber);
 <<<<<<< HEAD
+<<<<<<< HEAD
 			Console.WriteLine("Now Rochak--5 is  changing even more to really notice if it is a new verison.");
 =======
 	    Console.WriteLine("Now Rochak--2 is  changing even more to really notice if it is a new verison. ");
+=======
+	    Console.WriteLine("Now Rochak--5 is  changing even more to really notice if it is a new verison. ");
+>>>>>>> development/master
 		Console.WriteLine("K Xa Kta Haru.");
 >>>>>>> a8dd39e055cdd7376f318f35b0d90890f751d36c
             Console.WriteLine("Press any key to exit.");
