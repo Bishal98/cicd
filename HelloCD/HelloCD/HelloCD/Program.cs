@@ -19,7 +19,7 @@ namespace HelloCD
 			Console.WriteLine("Now Rochak--5 is  changing even more to really notice if it is a new verison.");
 	    Console.WriteLine("Now Rochak--2 is  changing even more to really notice if it is a new verison. ");
 	    Console.WriteLine("Now Rochak--5 is  changing even more to really notice if it is a new verison. ");
-		Console.WriteLine("K Xa Kta Haru.");
+		Console.WriteLine("Task completed");
 
             Console.WriteLine("Press any key to exit.");
             Console.ReadLine();
