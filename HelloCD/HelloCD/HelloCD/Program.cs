@@ -21,7 +21,7 @@ namespace HelloCD
 	    Console.WriteLine("Now Rochak--5 is  changing even more to really notice if it is a new verison. ");
 		Console.WriteLine("Task completed----Done");
 
-            Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("Recheck-Press any key to exit.");
             Console.ReadLine();
         }
     }
